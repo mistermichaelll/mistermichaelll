@@ -11,6 +11,7 @@ This is where I write not-so-bad code.
 ## 🗓 Hobbies
 - cycling 
 - taking care of houseplants
+- programming + learning new tools!
   
 ## 💻 Current Projects
 - [WMATA.jl](https://github.com/mistermichaelll/WMATA.jl)
