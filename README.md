@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi, I'm Michael! 👋 </h1>
-<h3 align="center">A Data Analyst from Washington, D.C.</h3>
+<h3 align="center">A Data Analyst from Arlington, Virginia.</h3>
 <br>
 This is where I write not-so-bad code. 
 
