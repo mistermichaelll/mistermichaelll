@@ -14,6 +14,7 @@ This is where I write not-so-bad code.
 - programming + learning new tools!
   
 ## 💻 Current Projects
+- [JuDOMO.jl](https://github.com/mistermichaelll/JuDOMO.jl)
 - [m1financeR](https://github.com/mistermichaelll/m1financeR)
 - [WMATA.jl](https://github.com/mistermichaelll/WMATA.jl)
 
