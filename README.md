@@ -14,7 +14,7 @@ This is where I write not-so-bad code.
 - programming + learning new tools!
   
 ## 💻 Current Projects
-- [DOMO.jl](https://github.com/mistermichaelll/JuDOMO.jl)
+- [DOMO.jl](https://github.com/mistermichaelll/DOMO.jl)
 - [m1financeR](https://github.com/mistermichaelll/m1financeR)
 - [WMATA.jl](https://github.com/mistermichaelll/WMATA.jl)
 
