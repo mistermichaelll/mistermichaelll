@@ -6,7 +6,6 @@ This is where I write not-so-bad code.
 ## 💬 Ask Me About
 - anything R related 
 - why I enjoy coding in Julia
-- how the Bachelor is a sport
 
 ## 🗓 Hobbies
 - cycling 
