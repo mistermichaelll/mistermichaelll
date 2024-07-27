@@ -11,12 +11,6 @@ This is where I write not-so-bad code.
 - cycling 
 - taking care of houseplants
 - programming + learning new tools!
-  
-## 💻 Current Projects
-- [openDataDC](https://github.com/mistermichaelll/openDataDC)
-- [DOMO.jl](https://github.com/mistermichaelll/DOMO.jl)
-- [m1financeR](https://github.com/mistermichaelll/m1financeR)
-- [WMATA.jl](https://github.com/mistermichaelll/WMATA.jl)
 
 ## 📬 How to Reach Me
 - [My Website](https://michaelkjohnson.info/)
