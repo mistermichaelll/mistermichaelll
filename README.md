@@ -1,7 +1,4 @@
-<h1 align = "center"> Hi, I'm Michael! 👋 </h1>
-<h3 align="center">A Data Analyst based in Washington, D.C.</h3>
-<br>
-This is where I write not-so-bad code. 
+Hi, I'm Michael! 👋 I'm a Data Analyst who is also a part-time Julia stan.
 
 ## 💬 Ask Me About
 - anything R related 
@@ -12,9 +9,8 @@ This is where I write not-so-bad code.
 - taking care of houseplants
 - programming + learning new tools!
 
-## 📬 How to Reach Me
-- [My Website](https://michaelkjohnson.info/)
-- [LinkedIn](https://www.linkedin.com/in/michaeljohnson97/)
+## More About Me
+You can see the types of projects and tinkering that I like on my [blog.](https://michaelkjohnson.info/)
 
 <!---
 mistermichaelll/mistermichaelll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
