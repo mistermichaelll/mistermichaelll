@@ -1,4 +1,4 @@
-Hi, I'm Michael! 👋 I'm a Data Analyst who is also a part-time Julia stan.
+Hi, I'm Michael! 👋 I'm a Revenue Analyst at Asana who enjoys programming and building tools that others can use.
 
 ## 💬 Ask Me About
 - anything R related 
