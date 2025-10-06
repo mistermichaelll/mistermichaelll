@@ -1,4 +1,4 @@
-Hi, I'm Michael! 👋 I'm a Revenue Analyst at Asana who enjoys programming and building tools that others can use.
+Hi, I'm Michael! 👋 I'm a Revenue Analyst at Asana who enjoys programming and building tools for others.
 
 ## 💬 Ask Me About
 - anything R related 
